@@ -9,6 +9,7 @@ RUN apt-get update && apt-get install -y \
     subversion \
     net-tools \
     gettext \
+    gnupg2 \
    && docker-php-ext-install zip gettext \
    && rm -rf /var/lib/apt/lists/*
 
