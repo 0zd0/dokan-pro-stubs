@@ -370,16 +370,16 @@
         },
         {
             "name": "onepix/wordpress-hooks-stub-generator",
-            "version": "v2.1.2",
+            "version": "v2.1.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/0zd0/wordpress-hooks-stub-generator.git",
-                "reference": "fe345d5789497e2f275dbfd9ee0112b196745378"
+                "reference": "256e5c26d84c47ce6cb07f931075a78c1f383d63"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/0zd0/wordpress-hooks-stub-generator/zipball/fe345d5789497e2f275dbfd9ee0112b196745378",
-                "reference": "fe345d5789497e2f275dbfd9ee0112b196745378",
+                "url": "https://api.github.com/repos/0zd0/wordpress-hooks-stub-generator/zipball/256e5c26d84c47ce6cb07f931075a78c1f383d63",
+                "reference": "256e5c26d84c47ce6cb07f931075a78c1f383d63",
                 "shasum": ""
             },
             "require": {
@@ -434,7 +434,7 @@
                 "wordpress"
             ],
             "support": {
-                "source": "https://github.com/0zd0/wordpress-hooks-stub-generator/tree/v2.1.2"
+                "source": "https://github.com/0zd0/wordpress-hooks-stub-generator/tree/v2.1.3"
             },
             "funding": [
                 {
@@ -442,7 +442,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-01-03T08:31:40+00:00"
+            "time": "2025-01-03T09:24:08+00:00"
         },
         {
             "name": "onepix/wordpress-stubs-generator",

@@ -29,6 +29,11 @@ IGNORE_HOOKS=(
 "\$this->id . '_is_available"
 "woocommerce_email_subject_' . \$this->id"
 "woocommerce_email_heading_' . \$this->id"
+"dokan_activated_module_' . \$module_id"
+"dokan_deactivated_module_' . \$module_id"
+"wsa_form_top_' . \$form['id']"
+"wsa_form_bottom_' . \$form['id']"
+"wedevs_sms_via_' . \$active_gateway"
 )
 IGNORE_HOOKS_STRING=$(IFS=,; echo "${IGNORE_HOOKS[*]}")
 
